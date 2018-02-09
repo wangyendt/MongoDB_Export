@@ -1,0 +1,9 @@
+E:\Programmes\CSharp\MongoDB_Export\MongoDB_Export\bin\Release\MongoDB_Export.exe.config
+E:\Programmes\CSharp\MongoDB_Export\MongoDB_Export\bin\Release\MongoDB_Export.exe
+E:\Programmes\CSharp\MongoDB_Export\MongoDB_Export\bin\Release\MongoDB_Export.pdb
+E:\Programmes\CSharp\MongoDB_Export\MongoDB_Export\obj\Release\MongoDB_Export.Form1.resources
+E:\Programmes\CSharp\MongoDB_Export\MongoDB_Export\obj\Release\MongoDB_Export.Properties.Resources.resources
+E:\Programmes\CSharp\MongoDB_Export\MongoDB_Export\obj\Release\MongoDB_Export.csproj.GenerateResource.Cache
+E:\Programmes\CSharp\MongoDB_Export\MongoDB_Export\obj\Release\MongoDB_Export.csproj.CoreCompileInputs.cache
+E:\Programmes\CSharp\MongoDB_Export\MongoDB_Export\obj\Release\MongoDB_Export.exe
+E:\Programmes\CSharp\MongoDB_Export\MongoDB_Export\obj\Release\MongoDB_Export.pdb
